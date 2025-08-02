@@ -6,13 +6,13 @@
     flex-wrap:wrap;*/
 }
 .box1{
-    backgorund-color: red;
+    background-color: red;
 }
 .box2{
-    backgorund-color: green;
+    background-color: green;
 }
 .box3{
-    backgorund-color: blue;
+    background-color: blue;
 }
 @media only screen and (max-width:700px){
     .box1{
